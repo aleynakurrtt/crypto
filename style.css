@@ -1,0 +1,684 @@
+.body {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-image: url(images/Group\ 72\ \(8\).png);
+  background-size: auto;
+}
+.hero .navbar {
+  padding-top: 54px;
+}
+.hero .group-1 {
+  margin-right: 107px;
+}
+.hero .navbar-nav {
+  margin-right: 150px;
+}
+.hero .btn-1 {
+  padding: 13px 40px;
+  border-radius: 40px;
+  margin-right: 20px;
+}
+.hero .btn-2 {
+  padding: 13px 40px;
+  border-radius: 40px;
+}
+
+.grow .growing {
+  padding-top: 100px;
+  padding-left: 80px;
+}
+.grow .growing .sign-up {
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  background: linear-gradient(137deg, #468EF9 -12.5%, #0C66EE 107.5%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.grow .growing .web-app {
+  color: #222;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+}
+.grow .growing .fastest {
+  background: linear-gradient(169deg, #3984F4 -6.01%, #0CD3FF 36.87%, #2F7CF0 78.04%, #0E65E8 103.77%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 65px;
+}
+.grow .growing .sell {
+  color: #666;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.grow .growing .star {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  position: absolute;
+  float: left;
+  left: 0;
+  right: 0;
+  margin-left: 550px;
+  margin-bottom: 50px;
+}
+.grow .growing .btn-3 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 150px;
+  height: 60px;
+  padding: 10px;
+  margin-right: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background: linear-gradient(137deg, #468EF9 -12.5%, #0C66EE 107.5%);
+}
+.grow .growing .btn-4 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 150px;
+  height: 60px;
+  padding: 15px;
+  margin-bottom: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  border: 1px solid var(--GRA-Blue2, #3984F4);
+}
+.grow .ellipse {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  position: relative;
+  right: 80px;
+}
+
+.img-bit .bit-img {
+  width: 700px;
+  height: auto;
+  margin-right: 5px;
+}
+
+/* navbar finished*/
+.trending .my-container {
+  border-radius: 40px;
+  background: white;
+  width: 100%;
+  margin-top: -50px;
+  padding: 50px 60px 35px 70px;
+  border-radius: 40px;
+  background: #FFF;
+}
+.trending .my-container .more-trend {
+  margin-top: 1rem;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.trending .my-container .more-trend .more {
+  text-align: right;
+  padding-left: 10rem;
+  padding-top: 1rem;
+  color: #2F7CF0;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.trending .my-container .name {
+  padding-right: 80px;
+  color: #666;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.15px;
+  padding: 2rem 2rem 2rem 0;
+}
+.trending .my-container .bitcoin {
+  align-items: center;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 1rem;
+}
+.trending .my-container .arti {
+  color: #28C165;
+}
+.trending .my-container .eksi {
+  color: #F4574D;
+}
+
+/*trendind finished*/
+@media screen and (max-width: 500px) {
+  .group-35 {
+    width: 100%;
+  }
+}
+.my-trade .baslik-3 {
+  padding: 150px 0 0 80px;
+}
+.my-trade .baslik-3 .trade {
+  color: #222;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 52px;
+  margin-bottom: 1rem;
+}
+.my-trade .baslik-3 .pre-sale {
+  color: #666;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.my-trade .baslik-3 .form-1 {
+  width: 100px;
+  height: 70px;
+  flex-shrink: 0;
+  border-radius: 22px;
+  border: #3984F4;
+  color: #3984F4;
+}
+.my-trade .group-35 {
+  width: 500px;
+  height: auto;
+  transform: rotate(9.364deg);
+  flex-shrink: 0;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+.my-trade .form-control {
+  width: 300px;
+  height: 80px;
+  flex-shrink: 0;
+  border-radius: 22px;
+  border: 1px solid var(--GRA-Blue2, #3984F4);
+}
+.my-trade .btn-5 {
+  margin-left: 1rem;
+  display: flex;
+  width: 150px;
+  height: 80px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 22px;
+  border: 1px solid var(--GRA-Blue2, #3984F4);
+}
+.my-trade .btnn {
+  margin-top: 30px;
+  margin-right: 2rem;
+  display: flex;
+  width: 480px;
+  height: 60px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background: var(--GRA-Blue, linear-gradient(137deg, #468EF9 -12.5%, #0C66EE 107.5%));
+}
+
+/*buy&trade finished*/
+.worldwide {
+  margin-top: 175px;
+}
+.worldwide .world {
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-image: url(images/Rectangle\ \(1\).png);
+  background-position: 0;
+  background-size: auto;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.7) -9.25%, rgba(255, 255, 255, 0.6) -9.25%, rgba(244, 249, 255, 0.7) 108.74%);
+  display: flex;
+}
+.worldwide .world .trusted {
+  color: #222;
+  text-align: center;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.worldwide .world .major {
+  color: #666;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 15px;
+}
+.worldwide .world .clever {
+  margin-top: 15px;
+}
+
+/*worldwide finished*/
+@media screen and (max-width: 768px) {
+  .card-2 {
+    width: 100%;
+  }
+}
+.card-1 {
+  margin-bottom: 150px;
+  margin-top: 245px;
+}
+.card-1 .card-2 {
+  width: 600px;
+  margin-left: 100px;
+}
+.card-1 .creditcard {
+  margin-top: 30px;
+  padding-left: 150px;
+}
+.card-1 .creditcard .intro {
+  color: #222;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke-width: 1;
+  -webkit-text-stroke-color: #000;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 52px;
+  margin-left: 1.5rem;
+}
+.card-1 .creditcard .intro .nefa {
+  background: linear-gradient(169deg, #3984F4 -6.01%, #0CD3FF 36.87%, #2F7CF0 78.04%, #0E65E8 103.77%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 52px;
+}
+.card-1 .creditcard .subject {
+  color: #666;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 25px 0 25px 0;
+}
+.card-1 .creditcard .liste {
+  margin-bottom: 1rem;
+  color: #222;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.card-1 .creditcard .button-2 {
+  display: flex;
+  width: 200px;
+  height: 70px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  border: 2px solid var(--GRA-Blue2, #3984F4);
+  margin-top: 2rem;
+}
+
+/*card-1 finished*/
+.con-3 {
+  margin-top: 3rem;
+  border-radius: 40px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.7) -9.25%, rgba(244, 249, 255, 0.1) -9.25%, rgba(244, 249, 255, 0.7) 108.74%);
+}
+.con-3 .non-stop {
+  margin-top: 5rem;
+  padding-left: 4rem;
+}
+.con-3 .non-stop .advanced {
+  color: #222;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.con-3 .non-stop .advanced .trading {
+  background: var(--GRA-Blue2, linear-gradient(169deg, #3984F4 -6.01%, #0CD3FF 36.87%, #2F7CF0 78.04%, #0E65E8 103.77%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.con-3 .non-stop .access {
+  color: #222;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 25px;
+}
+.con-3 .non-stop .provide {
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 15px;
+}
+.con-3 .non-stop .get-1 {
+  display: flex;
+}
+.con-3 .non-stop .get-1 .started {
+  width: 150px;
+  height: 50px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  border: 2px solid var(--GRA-Blue2, #3984F4);
+  margin-top: 2rem;
+}
+.con-3 .non-stop .get-1 .learn {
+  padding: 45px 0 0 45px;
+  color: #2F7CF0;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.con-3 .picture-1 {
+  margin-bottom: 4rem;
+}
+.con-3 .group-68 {
+  width: 700px;
+}
+
+/*Advanced Trading finished*/
+.lead {
+  margin-top: 140px;
+}
+.lead .img-11 {
+  width: 700px;
+  height: auto;
+  padding-left: 135px;
+}
+.lead .security .safe {
+  color: #222;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 30px;
+}
+.lead .security .trust {
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+/*Industry-leading finished*/
+.fund {
+  background-image: url(images/Group\ 38.png);
+  border-radius: 40px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.7) -9.25%, rgba(255, 255, 255, 0.6) -9.25%, rgba(244, 249, 255, 0.7) 108.74%);
+  padding: 120px 30px 0 30px;
+}
+.fund .few-min {
+  padding: 80px 0 66px 0;
+  display: flex;
+  justify-content: center;
+  color: #222;
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.fund .ether {
+  width: 150px;
+  height: auto;
+  gap: 300px;
+}
+.fund .payment {
+  padding-top: 25px;
+  color: #222;
+  text-align: center;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.fund .securely {
+  color: #666;
+  text-align: center;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.fund .group-41 {
+  position: absolute;
+  width: 197px;
+  height: 12px;
+  left: 470px;
+  margin-top: 60px;
+}
+.fund .group-14 {
+  position: absolute;
+  width: 197px;
+  height: 12px;
+  right: 460px;
+  margin-top: 60px;
+}
+
+/*few minutes finished*/
+.img-69 {
+  margin-top: 241px;
+  margin-left: 63px;
+  width: 600px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.freque {
+  margin-top: 230px;
+}
+.freque .support {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.08px;
+  background: linear-gradient(137deg, #468EF9 -12.5%, #0C66EE 107.5%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.freque .asked {
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 40px;
+}
+.freque .accordion {
+  margin-right: 4rem;
+}
+.freque .accordion .accordion-item {
+  border: aliceblue;
+}
+.freque .accordion .accordion-button {
+  background-color: #FFF;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 11px;
+}
+.freque .accordion .accordion-body {
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+}
+.freque .accordion .line-3 {
+  background: #CCC;
+}
+.freque .secondary {
+  text-decoration: none;
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.freque .btn-6 {
+  display: flex;
+  width: 180px;
+  height: 60px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  border: 1px solid #DDD;
+  background: #FAFAFA;
+  margin-top: 100px;
+}
+
+/*accordion finished*/
+footer {
+  margin-top: 50px;
+  border-top: 1px solid #DDD;
+  padding: 60px 120px;
+}
+
+.nefaa {
+  width: 110px;
+  height: auto;
+  margin-right: 50px;
+}
+
+.port {
+  display: flex;
+  text-decoration: none;
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-bottom: 24px;
+  margin-right: 220px;
+}
+
+.port-1 {
+  display: flex;
+  text-decoration: none;
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-bottom: 24px;
+}
+
+.port-3 {
+  display: flex;
+  text-decoration: none;
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-bottom: 24px;
+}
+
+.news {
+  color: #666;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.never {
+  color: #666;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.news .footer-col .frm {
+  width: 240px;
+  height: 55px;
+  padding: 10px 10px 10px 14px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.news .footer-col .group-7 {
+  display: flex;
+  align-items: center;
+}
+.news .footer-col .group-7 .arrow {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.footer {
+  border-top: 1px solid #DDD;
+  padding: 15px 750px;
+}
+
+.copy {
+  color: #666;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 1rem;
+}/*# sourceMappingURL=style.css.map */
